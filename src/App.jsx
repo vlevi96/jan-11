@@ -6,9 +6,7 @@ function App() {
   
   const changeValue = () => {
     setBoolean(!boolean);
-    // console.log('changing boolean from ', boolean);
     // boolean = !boolean;
-    // console.log('boolean is now ', boolean);
   }
   
   // let content;
